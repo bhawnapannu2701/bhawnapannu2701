@@ -66,6 +66,8 @@
   <a href="https://codeforces.com/profile/bhawnapannu27"><img src="https://img.shields.io/badge/Codeforces-%2324292e.svg?&style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com/u/bhawnapannu2706/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
+![snake gif](https://github.com/bhawnapannu2701/bhawnapannu2701/blob/output/snake.svg)
+
 
 ---
 
