@@ -24,8 +24,7 @@
 
 ---
 
-## ✨ Featured Projects
-🌟 **[CollegeQuill](https://github.com/bhawnapannu2701/CollegeQuill)** – MERN-based resource hub for students  
+## ✨ Featured Projects 
 🌟 **[InterviewPilot](https://github.com/bhawnapannu2701/InterviewPilot)** – AI-powered interview preparation web app  
 🌟 **[PookieShop](https://github.com/bhawnapannu2701/PookieShop)** – Cute Myntra-style E-commerce platform  
 
@@ -34,9 +33,8 @@
 ---
 
 ## 🏆 Competitive Programming
-- 🥇 **CodeChef** → [bhawna2706](https://www.codechef.com/users/bhawna2706) (6★ )  
 - 🥈 **Codeforces** → [bhawnapannu27](https://codeforces.com/profile/bhawnapannu27) (Candidate Master ~1999+)  
-- 🥉 **LeetCode** → [bhawnapannu2706](https://leetcode.com/u/bhawnapannu2706/) (Guardian ~2400+)  
+- 🥉 **LeetCode** → [bhawnapannu2706](https://leetcode.com/u/bhawnapannu2706/) (Guardian ~2500+)  
 
 ---
 
